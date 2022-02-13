@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mas4112
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning Android ROM development
-- 💞️ I’m looking to collaborate on Redmi K30 Ultra (cezanne) device's custom ROM development.
+- 💞️ I’m looking to collaborate on OnePlus 9R (Lemonades) device's custom ROM development.
 - 📫 How to reach me: fb.com/mas4112
 
 <!---
